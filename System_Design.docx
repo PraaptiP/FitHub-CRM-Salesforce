@@ -1,0 +1,25 @@
+System Architecture
+
+The FitHub CRM system is built using the Salesforce Lightning Platform. The application uses custom objects, relationships, automation, and analytics features provided by Salesforce.
+
+Objects Created:
+
+Member
+Trainer
+Class
+Booking
+
+Relationships:
+
+Member → Booking (Master-Detail)
+Class → Booking (Master-Detail)
+Trainer → Class (Lookup)
+
+Automation Implemented:
+
+Formula fields to determine membership status and class availability
+Validation rules to ensure correct data entry
+Flow automation for sending notifications
+
+Analytics:
+Reports and dashboards are used to analyze class bookings, revenue, and attendance.
