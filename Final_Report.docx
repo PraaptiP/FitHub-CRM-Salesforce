@@ -1,0 +1,33 @@
+Project Title:
+FitHub CRM – Fitness Center Management
+
+Introduction:
+FitHub CRM is a Salesforce-based application designed to manage the operations of a fitness center. The system helps automate membership management, class scheduling, trainer assignments, and booking processes.
+
+Technology Used:
+
+Salesforce Lightning Platform
+Custom Objects
+Flows
+Formula Fields
+Validation Rules
+Reports and Dashboards
+
+Objects Used in the System:
+
+Member
+Trainer
+Class
+Booking
+
+Key Features:
+
+Member registration and membership tracking
+Trainer management and specialization tracking
+Class scheduling and capacity management
+Booking and payment tracking
+Automated validations and formulas
+Revenue and booking analytics through reports and dashboards
+
+Conclusion:
+The FitHub CRM system successfully automates fitness center operations using Salesforce. It improves efficiency, reduces manual work, and provides valuable insights through reports and dashboards.
